@@ -1,2 +1,2 @@
-# Robotic_arm-
+# Robotic_arm
 Robotic Arm code 
